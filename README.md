@@ -37,4 +37,5 @@ Gradle is the only supported build configuration, so just add the dependency to 
 dependencies {
   compile 'com.airbnb.android:lottie:2.5.0-beta1'
 }
-```
+```这是一个能解析 Adobe After Effects 动画导出的JSON文件并把它们渲染成本地动画的库
+
